@@ -17,11 +17,11 @@ To design and implement a musical keyboard system capable of:
 
 ## Authors
 
-| Name								| Registry number	|
-|-----------------------------------|-------------------|
-| Gabriel Del Monte Schiavi Noda	| 2022014552		|
-| Gabrielle Gomes Almeida			| 2022002758		|
-| Mirela Vitoria Domiciano   		| 2022004930		|
+| Name                                                                  | Registry number	|
+|-----------------------------------------------------------------------|-----------------|
+| [Gabriel Del Monte Schiavi Noda](https://github.com/gabrieldelmonte)  | 2022014552		  |
+| [Gabrielle Gomes Almeida](https://github.com/gavgms12)                | 2022002758		  |
+| [Mirela Vitoria Domiciano](https://github.com/MirelaDomiciano)        | 2022004930		  |
 
 
 ## Functionality overview
